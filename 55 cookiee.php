@@ -2,7 +2,7 @@
 if(isset($_COOKIE["user"])) {
     echo "Selamat datang " . $_COOKIE["user"];
 } else {
-    echo "Selamat datang, Amellya!";
+    echo "Selamat datang, Arif!";
 }
 
 // Membuat cookie yang berlaku selama satu jam

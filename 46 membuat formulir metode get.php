@@ -5,12 +5,12 @@
 </head>
 <body>
 
-<form action="menggunakan method post.php" method="get">
+<form action="membuat proses perkenalan.php" method="get">
     Nama: <input type="text" name="nama"><br>
     Email: <input type="text" name="email"><br>
     <input type="submit" value="Kirim">
 
-    <p><strong>by arif alazhar</strong>
+    <p><strong>By ARIF ALFAZHAR</strong>
 </form>
 </body>
 </html>

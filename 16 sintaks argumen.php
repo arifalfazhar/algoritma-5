@@ -5,6 +5,6 @@ function sapa($nama = 'pengunjung') {
 }
 
 sapa(); // Output: Halo, pengunjung!
-sapa('Amellya'); // Output: Halo, ipal!
+sapa('ARIF'); // Output: Halo, ipal!
 
 echo "<p><strong>by arif alfazhar</strong>";

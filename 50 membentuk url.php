@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
-<form action="membuat formulir metode get.php" method="get">
+<form action="membuat proses perkenalan.php" method="get">
   Cari: <input type="text" name="query"><br>
   <input type="submit" value="Search">
 </form>
-<p><strong>by arif alfazhar</strong>
+<p><strong>By Arif alfazhar</strong>
